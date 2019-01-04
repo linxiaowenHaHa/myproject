@@ -1,0 +1,4 @@
+#Fri Dec 28 17:30:15 CST 2018
+base.0=C\:\\Users\\24237\\Documents\\bxunit\\myproject\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
